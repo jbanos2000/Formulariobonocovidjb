@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Usuario\\Desktop\\Programación Lab\\Practica 01\\Formulariobonocovidjb\\Views\\Covid\\Index.cshtml",
+      "TargetPath": "Views\\Covid\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Usuario\\Desktop\\Programación Lab\\Practica 01\\Formulariobonocovidjb\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
