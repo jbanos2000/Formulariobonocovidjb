@@ -31,7 +31,7 @@ namespace Formulariobonocovidjb.Controllers
         public IActionResult Registrar(Covid covid){
             if(ModelState.IsValid){
                 //grabado DB
-                covid.Autor="jbejarano";
+                covid.Autor="jesusbaños";
                 _context.Add(covid);
                 _context.SaveChanges();            
                 covid.Respuesta="Su solicitud será enviada pronto, muchas gracias!";
